@@ -1,0 +1,105 @@
+trEPR Info file - v. 0.1.6 (2016-01-18)
+
+GENERAL
+Filename:               messung01/daten01
+Date start:             2017-06-14
+Date end:               2017-06-15
+Time start:             17:30:00
+Time end:               05:21:00
+Operator:               Till Biskup
+Label:                  NDI-T2 Sa261
+Purpose:                Signal mit Depolarisator mit neuer Probe
+
+SAMPLE
+Name:                   NDI-T2 Lsg in 1-Chlornaphthalin
+ID:                     261
+Description:            NDI-T2 Lsg in 1-Chlornaphthalin Sa261
+Solvent:                1-Chlornaphthalin
+Preparation:            unsealed
+Tube:                   3.8 x 3 x 180 mm
+
+EXPERIMENT
+Runs:                   1
+Shot Repetition Rate:   10 Hz
+
+SPECTROMETER
+Model:                  ESP380E
+Software:               Transient, Vers. 0.6
+
+MAGNETIC FIELD
+Field probe type:       Hall 
+Field probe model:      
+Start:                  280 mT
+Stop:                   410 mT
+Step:                   0.4 mT
+Sequence:               inward
+Controller:             Bruker 032 T
+Power supply:           Bruker 083 CS
+
+BACKGROUND
+Field:                  260.0 mT
+Occurrence:             10
+Polarisation:           absorptive
+Intensity:              7.7 mV
+
+BRIDGE
+Model:                  Bruker ER 046 MRT
+Controller:             Bruker ER 048 R
+Attenuation:            20 dB
+Power:                  2 mW
+Detection:              mixer
+Frequency counter:      HP 5352B
+MW frequency:           9.68622 GHz
+
+VIDEO AMPLIFIER
+Bandwidth:              25 MHz
+Amplification:          42 dB
+
+RECORDER
+Model:                  LeCroy Waverunner 9354A
+Averages:               1000
+Time base:              2 ns
+Bandwidth:              500 MHz
+Pretrigger:             1.001 us
+Coupling:               DC
+Impedance:              50 Ohm
+Sensitivity:            50 mV
+
+TRANSIENT
+Points:                 5000
+Length:                 10 us
+Trigger Position:       500        % Wichtig zur Kompatibilitaet mit Berlin
+
+PROBEHEAD
+Type:                   dielectric
+Model:                  Bruker ER 4118X-MD5
+Coupling:               critical
+
+PUMP
+Type:                   Laser
+Model:                  GCR 190-10
+Wavelength:             523 nm
+Power:                  1 mJ
+Repetition rate:        10 Hz
+Tunable type:           OPO
+Tunable model:          OPTA BBO VIS/IR
+Tunable dye:            
+Tunable position:       4789
+Filter:                 Depolarisator
+
+TEMPERATURE
+Temperature:            80 K
+Controller:             Oxford ITC 503
+Cryostat:               Oxford 935
+Cryogen:                N2
+
+FIELD CALIBRATION
+Filename:               
+Field probe type:       
+Field probe model:      
+Standard:               LiLiF
+Signal field:           
+MW Frequency:           
+
+COMMENT
+Depolarisator im Strahlengang.
