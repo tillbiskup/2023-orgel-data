@@ -1,0 +1,80 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite both the article from preferred-citation and the dataset itself."
+preferred-citation:
+  authors:
+    - family-names: Matt
+      given-names: Clemens
+    - family-names: Matsidik
+      given-names: Rukiya
+      orcid: "https://orcid.org/0000-0002-3535-1076"
+    - family-names: Meyer
+      given-names: Deborah L.
+    - family-names: Schröder
+      given-names: Mirjam
+      orcid: "https://orcid.org/0000-0002-8940-3185"
+    - family-names: Sommer
+      given-names: Michael
+      orcid: "https://orcid.org/0000-0002-2377-5998"
+    - family-names: Biskup
+      given-names: Till
+      orcid: "https://orcid.org/0000-0003-2913-0004"
+  title: "Know your building blocks: Time-resolved EPR spectroscopy reveals NDI-T2 and not T-NDI-T to resemble the electronic structure of PNDIT2"
+  doi: 10.1016/j.orgel.2023.106790
+  journal: "Organic Electronics"
+  year: 2023
+  type: article
+title: Data for Matt et al., Organic Electronics 2023
+abstract: >
+    This directory contains the (raw) data for the following publication:
+
+    * Clemens Matt, Rukiya Matsidik, Deborah L. Meyer, Mirjam Schröder, Michael Sommer, Till Biskup: Know your building blocks: Time-resolved EPR spectroscopy reveals NDI-T2 and not T-NDI-T to resemble the electronic structure of PNDIT2. Organic Electronics, 2023, in press, doi:10.1016/j.orgel.2023.106790
+authors:
+  - family-names: Matt
+    given-names: Clemens
+  - family-names: Matsidik
+    given-names: Rukiya
+    orcid: "https://orcid.org/0000-0002-3535-1076"
+  - family-names: Meyer
+    given-names: Deborah L.
+  - family-names: Schröder
+    given-names: Mirjam
+    orcid: "https://orcid.org/0000-0002-8940-3185"
+  - family-names: Sommer
+    given-names: Michael
+    orcid: "https://orcid.org/0000-0002-2377-5998"
+  - family-names: Biskup
+    given-names: Till
+    orcid: "https://orcid.org/0000-0003-2913-0004"
+type: dataset
+license: Creative Commons Attribution 4.0 International
+repository-code: "https://github.com/tillbiskup/2023-orgel-data"
+keywords:
+  - "conjugated push-pull copolymers"
+  - "repeat unit"
+  - "building block"
+  - "electronic structure"
+  - "triplet states"
+  - "electron paramagnetic resonance"
+references:
+  authors:
+    - family-names: Matt
+      given-names: Clemens
+    - family-names: Matsidik
+      given-names: Rukiya
+      orcid: "https://orcid.org/0000-0002-3535-1076"
+    - family-names: Meyer
+      given-names: Deborah L.
+    - family-names: Schröder
+      given-names: Mirjam
+      orcid: "https://orcid.org/0000-0002-8940-3185"
+    - family-names: Sommer
+      given-names: Michael
+      orcid: "https://orcid.org/0000-0002-2377-5998"
+    - family-names: Biskup
+      given-names: Till
+      orcid: "https://orcid.org/0000-0003-2913-0004"
+  title: "Know your building blocks: Time-resolved EPR spectroscopy reveals NDI-T2 and not T-NDI-T to resemble the electronic structure of PNDIT2"
+  doi: 10.1016/j.orgel.2023.106790
+  journal: "Organic Electronics"
+  year: 2023
+  type: article
