@@ -1,5 +1,7 @@
 # Data for Matt *et al.*, Organic Electronics 2023
 
+[![DOI](https://zenodo.org/badge/497557905.svg)](https://zenodo.org/badge/latestdoi/497557905)
+
 This directory contains the (raw) data for the following publication:
 
  * Clemens Matt, Rukiya Matsidik, Deborah L. Meyer, Mirjam Schröder, Michael Sommer, Till Biskup: Know your building blocks: Time-resolved EPR spectroscopy reveals NDI-T2 and not T-NDI-T to resemble the electronic structure of PNDIT2.
