@@ -53,5 +53,7 @@ references:
     title: "Know your building blocks: Time-resolved EPR spectroscopy reveals NDI-T2 and not T-NDI-T to resemble the electronic structure of PNDIT2"
     doi: 10.1016/j.orgel.2023.106790
     journal: "Organic Electronics"
+    volume: 117
+    pages: 106790
     year: 2023
     type: article
